@@ -1,2 +1,3 @@
-This school enrollment is used for dry run only.
+This school enrollment with database is used for dry run only.
 System Application.
+Try it.
